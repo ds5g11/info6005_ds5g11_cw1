@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /usr/share/cw1-6005-ds5g11
+./index.php $@
+
