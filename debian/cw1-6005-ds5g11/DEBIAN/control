@@ -1,0 +1,11 @@
+Package: cw1-6005-ds5g11
+Version: 1.0.0
+Architecture: all
+Maintainer: Daniele <ds5g11@soton.ac.uk>
+Installed-Size: 60
+Depends: php5-cli
+Section: unkno
+Priority: extra
+Homepage: https://github.com/ds5g11/info6005_ds5g11_cw1
+Description: Info6005 Coursework 1
+ This is the first coursework for INFO6005

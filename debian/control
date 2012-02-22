@@ -1,0 +1,13 @@
+Source: cw1-6005-ds5g11
+Section: unkno
+Priority: extra
+Maintainer: Daniele <ds5g11@soton.ac.uk>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: https://github.com/ds5g11/info6005_ds5g11_cw1
+
+Package: cw1-6005-ds5g11
+Architecture: all
+Depends: ${shlibs:Depends},${misc:Depends}, php5-cli
+Description: Info6005 Coursework 1
+ This is the first coursework for INFO6005
